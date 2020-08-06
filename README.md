@@ -1,4 +1,4 @@
-# [Jinja2 Template - Material PRO Wpx](https://jinja2-material-dashboard-wpx-pro.appseed.us/)
+# [Jinja Template - Material PRO Wpx](https://jinja2-material-dashboard-wpx-pro.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -26,7 +26,7 @@
 
 <br />
 
-![Jinja2 Material Dashboard PRO Wpx - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja2-material-dashboard-wpx-pro/master/media/jinja2-material-dashboard-wpx-pro-screen.png)
+![Jinja Template - Material PRO Wpx.](https://raw.githubusercontent.com/app-generator/jinja2-material-dashboard-wpx-pro/master/media/jinja2-material-dashboard-wpx-pro-screen.png)
 
 <br />
 
@@ -187,4 +187,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja2 Template - Material PRO Wpx](https://jinja2-material-dashboard-wpx-pro.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template - Material PRO Wpx](https://jinja2-material-dashboard-wpx-pro.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
