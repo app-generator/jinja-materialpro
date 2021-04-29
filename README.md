@@ -1,4 +1,4 @@
-# Jinja Material Dashboard PRO Wpx
+# Jinja Material PRO Wpx
 
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
@@ -11,9 +11,9 @@
 
 > Links
 
-- [Material Dashboard PRO Wpx Jinja](https://jinja-material-wpx-pro.appseed-srv1.com) - LIVE Demo
-- [Material Dashboard PRO Wpx Flask](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro) - Full-stack version (Flask)
-- [Material Dashboard PRO Wpx Django](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - Full-stack version (Django)
+- [Material PRO Wpx Jinja](https://jinja-material-wpx-pro.appseed-srv1.com) - LIVE Demo
+- [Material PRO Wpx Flask](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro) - Full-stack version (Flask)
+- [Material PRO Wpx Django](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - Full-stack version (Django)
 
 <br />
 
