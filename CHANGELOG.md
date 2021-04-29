@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.2] 2021-04-29
+### Patch Fonts Issue
+
+- Fonts not loading on slow networks
+
 ## [1.0.1] 2021-04-29
 ### Improvements
 
